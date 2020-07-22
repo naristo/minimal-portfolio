@@ -302,10 +302,9 @@ You could also deploy it directly with Netlify or Heroku by linking your own rep
 
 [![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://cli.vuejs.org/guide/deployment.html#netlify)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://cli.vuejs.org/guide/deployment.html#heroku)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 
-## Technologies used 🛠️
 
 - [Vuejs](https://vuejs.org/)
 - [SCSS](https://sass-lang.com/documentation/syntax) 
