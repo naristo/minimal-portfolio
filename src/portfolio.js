@@ -1,25 +1,24 @@
 const home = {
-    name: 'Rahul Jain',
-    neonText: ['r', 'ahul', 'j', 'ain'],
+    name: 'Nia Aristo',
+    neonText: ['n', 'ia', 'a', 'risto'],
     // Cover Image resolution should be 1000x1500 pixels
-    coverImage: 'Rahul.png',
+    coverImage: 'cover.png',
     welcomeText: 'Hi, I am ',
-    skillsPrefix: 'I <i>design</i> and develop ',
-    skills: ['websites', 'web apps', 'ui/ux', 'animations'],
+    skillsPrefix: 'I am<i>DevOps</i> Engineer ',
+    skills: ['containerization', 'observability', 'devops', 'animations'],
     bio: "Apart from being a nerd, I love to enjoy the time by pursuing hobbies as a part time job. You won't regret seeing my part time work by clicking on the Favourites button, here on the top right corner. If you are still here that means you want to see my full time work too. No worries, click on the Work button to check that out too. Oh God! you are still reading. Cool, welcome to nerd's league. Click on Awards button to explore the possibilites of being a nerd.",
     buttons: {
         resume: {
             placeholder: 'Resume',
-            link: 'https://github.com/rahuldkjain/minimal-portfolio/raw/master/src/assets/files/ResumeRahulJain.pdf'
+            link: 'https://www.linkedin.com/in/nia-aristo/'
         }
     }
 };
 const social = {
-    linkedin: 'https://www.linkedin.com/in/rahuldkjain/',
-    quora: 'https://www.quora.com/profile/Rahul-Jain-1489',
-    github: 'https://github.com/rahuldkjain',
-    instagram: 'https://instagram.com/rahul_dk_jain',
-    facebook: 'https://www.facebook.com/rahuljain997'
+    linkedin: 'https://www.linkedin.com/in/nia-aristo/',
+    github: 'https://github.com/naristo',
+    instagram: 'https://instagram.com/nia.aristo',
+    facebook: 'https://www.facebook.com/arries.aja'
 };
 const work = {
     internships: {
